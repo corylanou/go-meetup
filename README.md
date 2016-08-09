@@ -9,7 +9,7 @@
     + [Meetup.com](#meetupcom)
     + [Twitter](#twitter)
   * [What should my agenda look like?](#what-should-my-agenda-look-like)
-  * [Ok, the meetup is scheduled, what else can I do to make it successful?](#ok-the-meetup-is-scheduled--what-else-can-i-do-to-make-it-successful)
+  * [Ok, the meetup is scheduled, what else can I do to make it successful?](#ok-the-meetup-is-scheduled-what-else-can-i-do-to-make-it-successful)
   * [The event day is here, what do I do?](#the-event-day-is-here-what-do-i-do)
       - [Annoucement Time:](#annoucement-time)
       - [Live Tweeting](#live-tweeting)
