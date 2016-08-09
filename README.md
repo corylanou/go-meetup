@@ -1,3 +1,25 @@
+**Table of Contents**
+
+- [Running a Go Meetup](#)
+	- [Am I qualified run a meetup?](#)
+	- [What event site should I use for hosting the group?](#)
+	- [Where do I host my meetup?](#)
+	- [How do I get sponsors?](#)
+	- [How do I find speakers?](#)
+		- [Meetup.com](#)
+		- [Twitter](#)
+	- [What should my agenda look like?](#)
+	- [Ok, the meetup is scheduled, what else can I do to make it successful?](#)
+	- [The event day is here, what do I do?](#)
+			- [Annoucement Time:](#)
+			- [Live Tweeting](#)
+	- [The meetup is over, now what?](#)
+		- [Tweet follow up and thank you!](#)
+	- [Are there other things to do at a meetup other than having speakers?](#)
+	- [Community Resources](#)
+	- [My meetup only gets a few people, did I do something wrong?](#)
+	- [I've tried everything, I still feel like I'm failing!](#)
+
 # Running a Go Meetup
 
 After running multiple Go meetups for years, I get asked a lot of the same questions over and over.  I'm hoping that this document will assist in helping other Go enthusiasts run or start their own meetups. This guide can be applied to virtually any meetup, just replace Go with your topic of choice!
