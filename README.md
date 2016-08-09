@@ -13,7 +13,7 @@
   * [The event day is here, what do I do?](#the-event-day-is-here--what-do-i-do)
       - [Annoucement Time:](#annoucement-time)
       - [Live Tweeting](#live-tweeting)
-  * [The meetup is over, now what?](#the-meetup-is-over--now-what)
+  * [The meetup is over, now what?](#the-meetup-is-over-now-what)
     + [Tweet follow up and thank you!](#tweet-follow-up-and-thank-you)
   * [Are there other things to do at a meetup other than having speakers?](#are-there-other-things-to-do-at-a-meetup-other-than-having-speakers)
   * [Community Resources](#community-resources)
