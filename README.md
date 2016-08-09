@@ -1,3 +1,25 @@
+**Table of Contents**
+
+- [Running a Go Meetup](#running-a-go-meetup)
+  * [Am I qualified run a meetup?](#am-i-qualified-run-a-meetup)
+  * [What event site should I use for hosting the group?](#what-event-site-should-i-use-for-hosting-the-group)
+  * [Where do I host my meetup?](#where-do-i-host-my-meetup)
+  * [How do I get sponsors?](#how-do-i-get-sponsors)
+  * [How do I find speakers?](#how-do-i-find-speakers)
+    + [Meetup.com](#meetupcom)
+    + [Twitter](#twitter)
+  * [What should my agenda look like?](#what-should-my-agenda-look-like)
+  * [Ok, the meetup is scheduled, what else can I do to make it successful?](#ok-the-meetup-is-scheduled-what-else-can-i-do-to-make-it-successful)
+  * [The event day is here, what do I do?](#the-event-day-is-here-what-do-i-do)
+      - [Annoucement Time](#annoucement-time)
+      - [Live Tweeting](#live-tweeting)
+  * [The meetup is over, now what?](#the-meetup-is-over-now-what)
+    + [Tweet follow up and thank you!](#tweet-follow-up-and-thank-you)
+  * [Are there other things to do at a meetup other than having speakers?](#are-there-other-things-to-do-at-a-meetup-other-than-having-speakers)
+  * [Community Resources](#community-resources)
+  * [My meetup only gets a few people, did I do something wrong?](#my-meetup-only-gets-a-few-people-did-i-do-something-wrong)
+  * [I've tried everything, I still feel like I'm failing!](#ive-tried-everything-i-still-feel-like-im-failing)
+
 # Running a Go Meetup
 
 After running multiple Go meetups for years, I get asked a lot of the same questions over and over.  I'm hoping that this document will assist in helping other Go enthusiasts run or start their own meetups. This guide can be applied to virtually any meetup, just replace Go with your topic of choice!
@@ -170,7 +192,7 @@ Here are some tips for making your first meetup successful:
 1. Do introductions.  Go around the room and have everyone state their name, what they have done with Go if anything, and maybe a fun fact about them. This is a great ice breaker.  Many meetups do this until they get too large to do it (30 people or more in my experience).
 1. Take pictures of all the presenters as they present, and if possible, live tweet the event!
 
-#### Annoucement Time:
+#### Annoucement Time
 
 Be sure to try to cover the following items when you make annoucements.  Feel free to put them in the actual agenda so you don't forget them.
 
