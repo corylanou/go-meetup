@@ -15,6 +15,7 @@
       - [Live Tweeting](#live-tweeting)
   * [The meetup is over, now what?](#the-meetup-is-over-now-what)
     + [Tweet follow up and thank you!](#tweet-follow-up-and-thank-you)
+  * [How can I get the presentations recorded?](#how-can-i-get-the-presentations-recorded)
   * [Are there other things to do at a meetup other than having speakers?](#are-there-other-things-to-do-at-a-meetup-other-than-having-speakers)
   * [Community Resources](#community-resources)
   * [My meetup only gets a few people, did I do something wrong?](#my-meetup-only-gets-a-few-people-did-i-do-something-wrong)
@@ -250,6 +251,17 @@ Example Tweet:
 ```
 Slides from @corylanou's Go Introduction presented at @DevOpsMSP http://go-talks.appspot.com/github.com/corylanou/go-intro-lightning/presentation.slide#1 … #golang
 ```
+
+## How can I get the presentations recorded?
+
+It's possible to do this yourself, but a local videographer will do a professional job. Reach out to a local videographer. Get a price quote. Then reach out to sponsors; letting them know their company will be associated with the video production.
+
+A few suggestions:
+
+- High quality audio is important. Use a lav mic. If working with a videographer, specify this in the quote.
+- Keep editing/post production to a minimum. This will increase costs and turn-around time.
+- Upload the presentations to YouTube and include a link to the slides in the description.
+
 
 ## Are there other things to do at a meetup other than having speakers?
 
