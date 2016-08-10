@@ -16,6 +16,7 @@
   * [The meetup is over, now what?](#the-meetup-is-over-now-what)
     + [Tweet follow up and thank you!](#tweet-follow-up-and-thank-you)
   * [How can I get the presentations recorded?](#how-can-i-get-the-presentations-recorded)
+  * [How do I get a logo created?](#how-do-i-get-a-logo-created)
   * [Are there other things to do at a meetup other than having speakers?](#are-there-other-things-to-do-at-a-meetup-other-than-having-speakers)
   * [Community Resources](#community-resources)
   * [My meetup only gets a few people, did I do something wrong?](#my-meetup-only-gets-a-few-people-did-i-do-something-wrong)
@@ -261,6 +262,11 @@ A few suggestions:
 - High quality audio is important. Use a lav mic. If working with a videographer, specify this in the quote.
 - Keep editing/post production to a minimum. This will increase costs and turn-around time.
 - Upload the presentations to YouTube and include a link to the slides in the description.
+
+
+## How do I get a logo created?
+
+A simple logo can be inexpensively commissioned using a site like [fiverr](https://www.fiverr.com/). Be sure and point the designer at the available [gopher vector art](https://github.com/golang-samples/gopher-vector).
 
 
 ## Are there other things to do at a meetup other than having speakers?
