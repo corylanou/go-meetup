@@ -11,7 +11,7 @@
   * [What should my agenda look like?](#what-should-my-agenda-look-like)
   * [Ok, the meetup is scheduled, what else can I do to make it successful?](#ok-the-meetup-is-scheduled-what-else-can-i-do-to-make-it-successful)
   * [The event day is here, what do I do?](#the-event-day-is-here-what-do-i-do)
-      - [Annoucement Time](#annoucement-time)
+      - [Announcement Time](#announcement-time)
       - [Live Tweeting](#live-tweeting)
   * [The meetup is over, now what?](#the-meetup-is-over-now-what)
     + [Tweet follow up and thank you!](#tweet-follow-up-and-thank-you)
@@ -38,7 +38,7 @@ I have seen some groups use [eventbrite.com](http://www.eventbrite.com).  I've f
 
 ## Where do I host my meetup?
 
-My experience has been that there is never a shortage of places willing to host a meetup.  The first place to look is where other meetups in your area are hosting their meetups.  Contact the organizers of those meetups and ask if they would introduce you to their hosts.  With todays tech market, everyone wants to bring in developers to their workspace!
+My experience has been that there is never a shortage of places willing to host a meetup.  The first place to look is where other meetups in your area are hosting their meetups.  Contact the organizers of those meetups and ask if they would introduce you to their hosts.  With today's tech market, everyone wants to bring in developers to their workspace!
 
 ## How do I get sponsors?
 
@@ -93,7 +93,7 @@ Agenda
     • Thank You!
     • Where are the bathrooms
     • Host Announcements 
-    • Job Openings / Hiring Annoucements
+    • Job Openings / Hiring Announcements
     • Events / Training.
     • Announce next meetup.
 • 7:10 - 7:20 - Introductions
@@ -141,18 +141,18 @@ The Viper office is located on the second floor of 1515 Wynkoop.  The doors to t
 Additional Resources 
 
 Slack Channel for Gophers - gophers.slack.com 
-To get added, fill out the google form here: bit.ly/go-slack-signup
+To get added, fill out the Google form here: bit.ly/go-slack-signup
 
 Go Forum - This is new! It's a discourse forum for Go!
 
 https://forum.golangbridge.org
 ```
 
-Be sure when creating the agenda to link each speakers name to either thier twitter or github profile if they provide it.
+Be sure when creating the agenda to link each speakers name to either their twitter or github profile if they provide it.
 
 ## Ok, the meetup is scheduled, what else can I do to make it successful?
 
-As soon as you have a speaker booked, update your meetup event with their details.  Additionally, make sure to tweet about it.  A good tweet should have the following compnonents when possible:
+As soon as you have a speaker booked, update your meetup event with their details.  Additionally, make sure to tweet about it.  A good tweet should have the following components when possible:
 
 - Presenters twitter handle
 - Presenters topic
@@ -160,8 +160,8 @@ As soon as you have a speaker booked, update your meetup event with their detail
 - Twitter handle of the meetup
 - Twitter handle of the company hosting the meetup
 - Twitter handle of the company sponsoring the meetup
-- Twitter hastag `#golang`
-- Photo - either the meetup logo or something pertinent to the annoucment.  This may seem trivial but tweets with images get way more clicks!
+- Twitter hashtag `#golang`
+- Photo - either the meetup logo or something pertinent to the announcement.  This may seem trivial but tweets with images get way more clicks!
 - Link to the meetup event
 
 You won't always be able to fit everything in 140 characters, but get creative!
@@ -194,9 +194,9 @@ Here are some tips for making your first meetup successful:
 1. Do introductions.  Go around the room and have everyone state their name, what they have done with Go if anything, and maybe a fun fact about them. This is a great ice breaker.  Many meetups do this until they get too large to do it (30 people or more in my experience).
 1. Take pictures of all the presenters as they present, and if possible, live tweet the event!
 
-#### Annoucement Time
+#### Announcement Time
 
-Be sure to try to cover the following items when you make annoucements.  Feel free to put them in the actual agenda so you don't forget them.
+Be sure to try to cover the following items when you make announcements.  Feel free to put them in the actual agenda so you don't forget them.
 
 - Thank everyone for coming.
 - Thank the sponsors.
@@ -216,7 +216,7 @@ What to include in a live tweet for presenters:
 - Twitter handle of the company hosting the meetup
 - Twitter handle of the company sponsoring the meetup
 - Twitter hastag `#golang`
-- Photo of the persenter in action!
+- Photo of the presenter in action!
 
 Example Tweet:
 [https://twitter.com/corylanou/status/691799977094451202](https://twitter.com/corylanou/status/691799977094451202)
@@ -242,7 +242,7 @@ Be sure to tweet a thank you to each speaker, include in the tweet:
 - Twitter handle of the meetup
 - Twitter handle of the company hosting the meetup
 - Twitter handle of the company sponsoring the meetup
-- Twitter hastag `#golang`
+- Twitter hashtag `#golang`
 
 Do this for each presenter.
 
@@ -291,7 +291,7 @@ Good ideas for content:
 Here are a few that I maintain already:
 
 - [Denver Go Jobs](http://bit.ly/denver-go-jobs) - This is really `Denver Go Resources` but since it started as a local Go job listing I haven't changed the name.
-- [Minneapolis Golang](http://bit.ly/minneapolis-golang) - This is the newer format I've started maintaing and I really like it.
+- [Minneapolis Golang](http://bit.ly/minneapolis-golang) - This is the newer format I've started maintaining and I really like it.
 
 ## My meetup only gets a few people, did I do something wrong?
 
