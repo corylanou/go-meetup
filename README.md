@@ -218,12 +218,25 @@ What to include in a live tweet for presenters:
 - Twitter hastag `#golang`
 - Photo of the presenter in action!
 
-Example Tweet:
-[https://twitter.com/corylanou/status/691799977094451202](https://twitter.com/corylanou/status/691799977094451202)
+It's important to have a basic understanding of how the twitter website works. There are some quirks that one needs to be aware of before socially engaging with Meetup members on Twitter.
+
+Here's an example tweet:
+https://twitter.com/corylanou/status/691799977094451202
 
 ```
 @varunksaini presenting Writing an HTTPS Server in #golang at @ChicagoGolang hosted by @MediaMath
 ```
+
+What's the issue with this tweet? If you're using the website, this tweet will not appear on the main timeline of your twitter stream. The tweet was sent directly to `@varunksaini` and won't appear unless you go to `Tweets and Replies` tab of your twitter page.
+
+Example of a better tweet:
+https://twitter.com/FraminghamGo/status/785982785148248065
+
+```
+.@markbates stepping up as the first speaker ever!
+```
+
+Note the leading `.` in front of `@markbates` - This prevents it from being a directed tweet and it's viewable directly on your twitter profile page without having to go to `Tweets and Replies`. Those following along on twitter will also be able to see that directly on their timeline.
 
 ## The meetup is over, now what?
 
