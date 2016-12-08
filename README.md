@@ -9,13 +9,15 @@
     + [Meetup.com](#meetupcom)
     + [Twitter](#twitter)
   * [What should my agenda look like?](#what-should-my-agenda-look-like)
+  * [How should I prep the speakers?](#how-should-i-prep-the-speakers)
+     - [Communicate the essentials to them well in advance](#communicate-the-essentials-to-them-well-in-advance)
+     - [Include a link to one or two of the following resources](#include-a-link-to-one-or-two-of-the-following-resources)
   * [Ok, the meetup is scheduled, what else can I do to make it successful?](#ok-the-meetup-is-scheduled-what-else-can-i-do-to-make-it-successful)
   * [The event day is here, what do I do?](#the-event-day-is-here-what-do-i-do)
       - [Annoucement Time](#annoucement-time)
       - [Live Tweeting](#live-tweeting)
   * [The meetup is over, now what?](#the-meetup-is-over-now-what)
     + [Tweet follow up and thank you!](#tweet-follow-up-and-thank-you)
-  * [How can I get the presentations recorded?](#how-can-i-get-the-presentations-recorded)
   * [Are there other things to do at a meetup other than having speakers?](#are-there-other-things-to-do-at-a-meetup-other-than-having-speakers)
   * [Community Resources](#community-resources)
   * [My meetup only gets a few people, did I do something wrong?](#my-meetup-only-gets-a-few-people-did-i-do-something-wrong)
@@ -180,6 +182,53 @@ See @Influxdb's @benbjohnson present at the next @DenverGophers meetup hosted by
 see @varunksaini talk about Service Discovery, Consul, #golang tonight! Hosted by @MediaMath http://www.meetup.com/Chicago-Ultimate-Golang/events/232172595/ …
 ```
 
+## How should I prep the speakers?
+
+### Communicate the essentials to them well in advance
+
+A sample email to presenters might look like:
+```
+
+$SPEAKER:
+
+Thanks for getting involved in the local Go community. Here are a few details you will find useful:
+
+- The event is Nevuary 1st at 6:30pm
+- Please arrive at the venue by 6:15pm
+- It is in the Capitol Park neighborhood at: 123 First Street, Anytown, CA 
+- Parking is limited. Public transit is much easier.
+- My mobile number is 555-555-1212. Feel free to reach out if something comes up.
+- You will have 45 minutes total. I would suggest 35 minutes of presentation and 10 minutes for questions at the end.
+- Expect a group of around 50 attendees with varying levels of expertise.
+- For projecting your laptop there will be HDMI hookups or AirPlay.
+- Please review our Code of Conduct: https://golang.org/conduct
+
+And importantly, relax and have fun! Everyone is there to enjoy themselves and they do next expect a perfect presentation!
+
+
+Here are a couple of resources you might find useful in preparing your presentation:
+- http://blog.ted.com/a-ted-speaker-coach-shares-11-tips-for-right-before-you-go-on-stage
+- https://www.youtube.com/watch?v=20GYQcBhXDo
+
+
+Thanks!
+
+$ORGANIZER
+
+
+```
+
+### Include a link to one or two of the following resources
+
+- [11 Tips for a successful Technical Presentation](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx)
+- [90 Tips from Toastmasters](https://www.toastmasters.org/About/90th-Anniversary/90-Tips)
+- [11 Tips from a TED speaker coach](http://blog.ted.com/a-ted-speaker-coach-shares-11-tips-for-right-before-you-go-on-stage)
+- [Instantly Better Presentations](http://damian.conway.org/IBP.pdf)
+- [Instantly Better Presentations - Video](https://www.youtube.com/watch?v=W_i_DrWic88)
+- [Demystifying Public Speaking - Video](https://www.youtube.com/watch?v=20GYQcBhXDo)
+- [Presenting Code - Video](https://www.youtube.com/watch?v=-o-Wjy_ISvs)
+
+
 ## The event day is here, what do I do?
 
 First, congratulations on getting here!  I'm sure you are both excited and nervous now that the big day is here!
@@ -251,17 +300,6 @@ Example Tweet:
 ```
 Slides from @corylanou's Go Introduction presented at @DevOpsMSP http://go-talks.appspot.com/github.com/corylanou/go-intro-lightning/presentation.slide#1 … #golang
 ```
-
-## How can I get the presentations recorded?
-
-It's possible to do this yourself, but a local videographer will do a professional job. Reach out to a local videographer. Get a price quote. Then reach out to sponsors; letting them know their company will be associated with the video production.
-
-A few suggestions:
-
-- High quality audio is important. Use a lav mic. If working with a videographer, specify this in the quote.
-- Keep editing/post production to a minimum. This will increase costs and turn-around time.
-- Upload the presentations to YouTube and include a link to the slides in the description.
-
 
 ## Are there other things to do at a meetup other than having speakers?
 
