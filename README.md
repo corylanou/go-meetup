@@ -231,6 +231,53 @@ See @Influxdb's @benbjohnson present at the next @DenverGophers meetup hosted by
 see @varunksaini talk about Service Discovery, Consul, #golang tonight! Hosted by @MediaMath http://www.meetup.com/Chicago-Ultimate-Golang/events/232172595/ …
 ```
 
+## How should I prep the speakers?
+
+### Communicate the essentials to them well in advance
+
+A sample email to presenters might look like:
+```
+
+$SPEAKER:
+
+Thanks for getting involved in the local Go community. Here are a few details you will find useful:
+
+- The event is Nevuary 1st at 6:30pm
+- Please arrive at the venue by 6:15pm
+- It is in the Capitol Park neighborhood at: 123 First Street, Anytown, CA 
+- Parking is limited. Public transit is much easier.
+- My mobile number is 555-555-1212. Feel free to reach out if something comes up.
+- You will have 45 minutes total. I would suggest 35 minutes of presentation and 10 minutes for questions at the end.
+- Expect a group of around 50 attendees with varying levels of expertise.
+- For projecting your laptop there will be HDMI hookups or AirPlay.
+- Please review our Code of Conduct: https://golang.org/conduct
+
+And importantly, relax and have fun! Everyone is there to enjoy themselves and they do next expect a perfect presentation!
+
+
+Here are a couple of resources you might find useful in preparing your presentation:
+- http://blog.ted.com/a-ted-speaker-coach-shares-11-tips-for-right-before-you-go-on-stage
+- https://www.youtube.com/watch?v=20GYQcBhXDo
+
+
+Thanks!
+
+$ORGANIZER
+
+
+```
+
+### Include a link to one or two of the following resources
+
+- [11 Tips for a successful Technical Presentation](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx)
+- [90 Tips from Toastmasters](https://www.toastmasters.org/About/90th-Anniversary/90-Tips)
+- [11 Tips from a TED speaker coach](http://blog.ted.com/a-ted-speaker-coach-shares-11-tips-for-right-before-you-go-on-stage)
+- [Instantly Better Presentations](http://damian.conway.org/IBP.pdf)
+- [Instantly Better Presentations - Video](https://www.youtube.com/watch?v=W_i_DrWic88)
+- [Demystifying Public Speaking - Video](https://www.youtube.com/watch?v=20GYQcBhXDo)
+- [Presenting Code - Video](https://www.youtube.com/watch?v=-o-Wjy_ISvs)
+
+
 ## The event day is here, what do I do?
 
 First, congratulations on getting here!  I'm sure you are both excited and nervous now that the big day is here!
