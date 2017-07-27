@@ -339,6 +339,7 @@ Sometimes, you just can't find a speaker.  It happens.  But that is no reason to
 - Open Source Hackathon.  Pick from any of these great [oss go projects that need help](https://github.com/corylanou/oss-helpwanted) and contribute!  Work as a group!  It's a great way to learn and bond with your fellow gophers!
 - Q&A Session.  Find one person, or a handful that would be willing to sit at the front of the room and just field questions about Go.  This can be a lot of fun, and a great way for people of all expertise levels to find answers to questions on their current projects.
 - Basic Social.  Just have refreshments and food and talk about anything!
+- Contribute to Go Workshop. The following [instructions](https://github.com/go-phoenix-chandler/JulyMeetup) will get a group going for their first contribution to Go.
 
 ## Community Resources
 
