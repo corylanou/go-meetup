@@ -363,4 +363,4 @@ No!  Starting a meetup takes patience and perseverance!  The first year of runni
 
 ## I've tried everything, I still feel like I'm failing!
 
-Don't despair!  We are here to help.  Reach out to us on [slack - meetup-organizers channel](https://gophers.slack.com/messages/meetup-organizers/) and ask for help!  We want you to succeed!
+Don't despair!  We are here to help.  Reach out to us on [slack - meetup-organisers channel](https://gophers.slack.com/messages/meetup-organisers/) and ask for help!  We want you to succeed!
